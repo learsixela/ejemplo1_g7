@@ -2,7 +2,7 @@
 # Claudio Mendez
 
 # israel palma
-#Carlos Urrutia
+# Carlos Urrutia
 # Livio gutierrez
 # diego larenas
 
