@@ -1,7 +1,8 @@
 # ejemplo1_g7
-
+# Claudio Mendez
 
 # israel palma
+<<<<<<< HEAD
 <<<<<<< HEAD
 # Livio gutierrez
 
@@ -14,11 +15,20 @@
 
 =======
 <<<<<<< HEAD
-#Carlos Urrutia
 =======
+>>>>>>> d3accf8bfa911a5337f9b9ddc82175c0a6e6c83c
+#Carlos Urrutia
 # Livio gutierrez
->>>>>>> 0eeab827cbd149b936e330dd0f9c8b931475e1d4
+# diego larenas
 
+
+
+
+
+
+
+
+# Pablo Hernández
 
 
 
