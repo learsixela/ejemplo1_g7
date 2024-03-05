@@ -3,12 +3,16 @@
 
 # israel palma
 #Carlos Urrutia
+# Livio gutierrez
 
 
 
 
 
 
+
+
+# Pablo Hernández
 
 
 
