@@ -4,7 +4,7 @@
 # israel palma
 # Carlos Urrutia
 # Livio gutierrez
-diego larenas
+# diego larenas
 
 
 
@@ -14,3 +14,13 @@ diego larenas
 
 
 # Pablo Hernández
+
+
+
+
+
+
+
+
+
+# felipe arias
