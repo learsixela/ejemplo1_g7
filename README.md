@@ -6,23 +6,10 @@
 # diego larenas
 
 
-
-
-
-
-
-<<<<<<< HEAD
 # Pablo Hernández
-
-
-
-
-
-
-
 
 
 # felipe arias
 
 # Pablo Hernández
->>>>>>> 1a776a3649474fa2428620be7e26423798b99bda
+
